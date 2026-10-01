@@ -1,0 +1,369 @@
+{
+  "blocks": [
+    {
+      "id": "hero",
+      "type": "hero",
+      "enabled": true,
+      "config": {
+        "title": "",
+        "typedRoles": [
+          "Developer",
+          "Builder",
+          "Web Developer"
+        ],
+        "tagline": "",
+        "showEyebrow": true
+      }
+    },
+    {
+      "id": "about",
+      "type": "about",
+      "enabled": true,
+      "config": {
+        "heading": "About",
+        "body": "I'm Himanshu, a BTech CSE / AIML student building practical software for the web. I focus on developing clean React interfaces, working with backend services, and learning DSA to write better code. I enjoy turning ideas into working practical projects that solve everyday problems.",
+        "focus": [
+          "React",
+          "Backend Development",
+          "DSA",
+          "Practical software projects"
+        ]
+      }
+    },
+    {
+      "id": "now",
+      "type": "now",
+      "enabled": true,
+      "config": {
+        "heading": "Now",
+        "building": [
+          "Interactive web applications and browser-based projects"
+        ],
+        "learning": [
+          "Backend development and DSA"
+        ],
+        "exploring": [
+          "Databases, deployment, and cloud tools"
+        ]
+      }
+    },
+    {
+      "id": "techStack",
+      "type": "techStack",
+      "enabled": true,
+      "config": {
+        "heading": "Tech Stack",
+        "display": "categorized",
+        "categories": [
+          {
+            "name": "Languages",
+            "items": [
+              "TypeScript",
+              "JavaScript",
+              "Python",
+              "C++"
+            ]
+          },
+          {
+            "name": "Frontend",
+            "items": [
+              "React",
+              "HTML",
+              "CSS",
+              "Tailwind CSS"
+            ]
+          },
+          {
+            "name": "Backend",
+            "items": [
+              "Node.js",
+              "Express",
+              "REST APIs"
+            ]
+          },
+          {
+            "name": "Tools",
+            "items": [
+              "Git",
+              "GitHub",
+              "Vite",
+              "VS Code"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "featuredProjects",
+      "type": "featuredProjects",
+      "enabled": true,
+      "config": {
+        "heading": "Featured Projects",
+        "layout": "cards",
+        "maxProjects": 4,
+        "showStars": true,
+        "showLanguage": true
+      }
+    },
+    {
+      "id": "githubStats",
+      "type": "githubStats",
+      "enabled": true,
+      "config": {
+        "heading": "GitHub Stats",
+        "showRank": true,
+        "includeProfileViews": false
+      }
+    },
+    {
+      "id": "streak",
+      "type": "streak",
+      "enabled": true,
+      "config": {
+        "heading": "Streak",
+        "showTotalCommits": true
+      }
+    },
+    {
+      "id": "languages",
+      "type": "languages",
+      "enabled": true,
+      "config": {
+        "heading": "Top Languages",
+        "layout": "compact",
+        "count": 6
+      }
+    },
+    {
+      "id": "trophies",
+      "type": "trophies",
+      "enabled": false,
+      "config": {
+        "heading": "Trophies",
+        "showFrame": true,
+        "rows": 1
+      }
+    },
+    {
+      "id": "activity",
+      "type": "activity",
+      "enabled": false,
+      "config": {
+        "heading": "Activity",
+        "showHeader": true,
+        "days": 14
+      }
+    },
+    {
+      "id": "contribution",
+      "type": "contribution",
+      "enabled": false,
+      "config": {
+        "heading": "Contributions",
+        "style": "classic",
+        "weeks": 52
+      }
+    },
+    {
+      "id": "snake",
+      "type": "snake",
+      "enabled": true,
+      "config": {
+        "heading": "Snake",
+        "caption": "Snakes eat my commits."
+      }
+    },
+    {
+      "id": "social",
+      "type": "social",
+      "enabled": true,
+      "config": {
+        "heading": "Find me",
+        "links": [
+          {
+            "label": "GitHub",
+            "url": "https://github.com/Himanshu102931"
+          },
+          {
+            "label": "LinkedIn",
+            "url": "https://www.linkedin.com/in/himanshu-gupta-74305722a/"
+          }
+        ]
+      }
+    },
+    {
+      "id": "easterEgg",
+      "type": "easterEgg",
+      "enabled": false,
+      "config": {
+        "heading": "Secret",
+        "hint": "Try pressing the right keys..."
+      }
+    },
+    {
+      "id": "footer",
+      "type": "footer",
+      "enabled": false,
+      "config": {
+        "text": "Crafted with GitHub Profile Studio",
+        "showYear": true,
+        "showViews": false
+      }
+    }
+  ],
+  "effects": {
+    "typing": {
+      "enabled": true,
+      "speed": 60,
+      "cursor": "line"
+    },
+    "glow": {
+      "enabled": true,
+      "intensity": 0.4
+    },
+    "snake": {
+      "enabled": true,
+      "palette": [
+        "#58A6FF",
+        "#A371F7",
+        "#3FB950"
+      ],
+      "schedule": "weekly"
+    },
+    "easterEggs": {
+      "enabled": true,
+      "konami": true,
+      "terminal": true
+    }
+  },
+  "github": {
+    "username": "Himanshu102931",
+    "profile": {
+      "id": 197576471,
+      "login": "Himanshu102931",
+      "name": "HIMANSHU GUPTA",
+      "bio": null,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/197576471?v=4",
+      "htmlUrl": "https://github.com/Himanshu102931",
+      "publicRepos": 8,
+      "followers": 1,
+      "following": 2,
+      "createdAt": "2025-02-03T08:17:03Z",
+      "location": null,
+      "blog": null,
+      "company": null
+    }
+  },
+  "identity": {
+    "name": "Himanshu Gupta",
+    "headline": "Computer Science Student • Developer • Builder",
+    "eyebrow": "BTech CSE / AIML student",
+    "typedRoles": [
+      "Developer",
+      "Builder",
+      "Web Developer"
+    ],
+    "tagline": "Building practical software across React, backend development, and web."
+  },
+  "overrides": {
+    "Himanshu102931/OS": {
+      "title": "OS",
+      "highlight": "Interactive desktop interface and multi-window workspace in the browser.",
+      "description": "Features draggable windows, application state management, and a terminal environment built with TypeScript and React.",
+      "demoUrl": "https://os-snowy-delta.vercel.app"
+    },
+    "Himanshu102931/cloud-file-storage": {
+      "title": "Cloud File Storage",
+      "highlight": "Cloud storage service with user authentication and file management.",
+      "description": "File storage and upload project built with Flask, Amazon S3, and Amazon Cognito OAuth 2.0."
+    },
+    "Himanshu102931/pomodoro": {
+      "title": "Pomodoro Timer",
+      "highlight": "Study and productivity timer with customizable work-break intervals.",
+      "description": "Keyboard-friendly interval timer built with TypeScript featuring audio alerts and session tracking."
+    },
+    "Himanshu102931/limecraft": {
+      "title": "Limecraft",
+      "highlight": "Voxel world experiment running in the browser.",
+      "description": "Procedural terrain generation and block placement experiment built with TypeScript and WebGL."
+    }
+  },
+  "policy": {
+    "excludeRepos": [
+      {
+        "id": "excl-hackers-cult",
+        "label": "Hackers Cult",
+        "pattern": "hackers[\\s_-]*cult",
+        "match": "regex",
+        "reason": "Personal exclusion — never surface this repository."
+      },
+      {
+        "id": "excl-soul-forge-os",
+        "label": "Soul Forge OS",
+        "pattern": "soul[\\s_-]*forge([\\s_-]*os)?",
+        "match": "regex",
+        "reason": "Personal exclusion — never surface this repository."
+      }
+    ],
+    "excludeContent": [
+      {
+        "id": "excl-cgpa",
+        "label": "CGPA",
+        "pattern": "\\bcgpa\\b",
+        "match": "regex",
+        "reason": "Academic statistics do not belong on the profile."
+      },
+      {
+        "id": "excl-school-marks",
+        "label": "School marks",
+        "pattern": "(school|class|10th|12th|matriculation)\\s*(marks|percentage|score|percent)",
+        "match": "regex",
+        "reason": "Academic statistics do not belong on the profile."
+      },
+      {
+        "id": "excl-marksheets",
+        "label": "Mark sheets",
+        "pattern": "\\b(report\\s*card|mark\\s*sheets?|transcript)\\b",
+        "match": "regex",
+        "reason": "Résumé-style academic clutter."
+      }
+    ],
+    "selection": {
+      "includeForks": false,
+      "includeArchived": false,
+      "maxFeatured": 4
+    }
+  },
+  "schemaVersion": 1,
+  "selections": [
+    "Himanshu102931/OS",
+    "Himanshu102931/cloud-file-storage",
+    "Himanshu102931/pomodoro",
+    "Himanshu102931/limecraft"
+  ],
+  "theme": {
+    "mode": "dark",
+    "colors": {
+      "bg": "#0D1117",
+      "accent": "#58A6FF",
+      "surface": "#21262D",
+      "text": "#C9D1D9",
+      "muted": "#8B949E",
+      "border": "#30363D",
+      "glow": "rgba(88, 166, 255, 0.35)"
+    },
+    "radius": 10,
+    "density": "normal",
+    "cardTheme": "dark"
+  },
+  "workflows": {
+    "snake": {
+      "assetPath": "assets/github-snake.svg",
+      "outputBranch": "default"
+    },
+    "autoRefresh": {
+      "enabled": false,
+      "schedule": "weekly"
+    }
+  }
+}
